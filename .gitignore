@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Secret keys/credentials (if you have any)
+.env
+credentials.json
+api_keys.txt
